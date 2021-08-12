@@ -22,4 +22,4 @@ An exercise app which may or may not add up to 7 minutes.
 ![alt](https://i.imgur.com/UU4m1gd.gif)
 
 ### Credits
-[https://www.vecteezy.com/free-vector/silhouette](Silhouette Vectors by Vecteezy)
+[Silhouette Vectors by Vecteezy](https://www.vecteezy.com/free-vector/silhouette)
