@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">7 Minute Workout</string>
+    <string name="image">image</string>
+    <string name="start">START</string>
+    <string name="get_ready_for">GET READY</string>
+    <string name="finished">FINISHED</string>
+    <string name="congratulations">Congratulations!</string>
+    <string name="you_have_finished_the_workout">You have finished the workout!</string>
+    <string name="finish">FINISH</string>
+    <string name="wanna_quit">This will stop your workout. You\'ve come this far, are you sure you want to quit?</string>
+    <string name="are_you_sure">Are you sure?</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+    <string name="bmi">BMI</string>
+    <string name="your_bmi">YOUR BMI</string>
+    <string name="height_in_cm">HEIGHT (in cm)</string>
+    <string name="weight_in_kg">WEIGHT (in kg)</string>
+    <string name="calculate">CALCULATE</string>
+    <string name="weight_in_lbs">WEIGHT (in lbs)</string>
+    <string name="feet">Feet</string>
+    <string name="inch">Inch</string>
+    <string name="exercise_name">Exercise Name</string>
+</resources>
